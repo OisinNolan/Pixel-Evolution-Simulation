@@ -7,5 +7,8 @@ Run by double-clicking file,
 
 **OR**
 
-From terminal, navigate to directory that .jar file is in.
-Enter command: java -jar PixelEvolution.jar
+From terminal, 
+
+1)  navigate to directory that .jar file is in.
+
+2)  Enter command: java -jar PixelEvolution.jar
