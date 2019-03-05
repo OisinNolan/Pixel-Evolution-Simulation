@@ -4,6 +4,6 @@ Evolution simulation using pixels to represent evolving entities. Created using 
 # Run Instructions:
 Download PixelEvolution.jar.
 Run by double-clicking file,
-# OR
+**OR**
 From terminal, navigate to directory that .jar file is in.
 Enter command: java -jar PixelEvolution.jar
